@@ -91,28 +91,14 @@
         <!-- Left Column (Sidebar) -->
         <div class="sidebar">
             <h1>Luc Paluskiewicz</h1>
-
-            <!-- Placeholder for your image -->
-            <img src="your-image.jpg" alt="Your Photo" class="profile-image">
-
-            <p><strong>Email:</strong> <span class="email">luc.paluskiewicz@psemail.eu</span></p>
-            <p><strong>Email:</strong> <span class="email">luc.paluskiewicz@college-de-france.fr</span></p>
-
-            <p>
-                <img src="linkedin-logo.png" alt="LinkedIn">
-                <a href="#">LinkedIn</a>
-            </p>
-            <p>
-                <img src="github-logo.png" alt="GitHub">
-                <a href="#">GitHub</a>
-            </p>
+            
         </div>
 
         <!-- Right Column (Main Content) -->
         <div class="main-content">
             <!-- Navigation links to other pages -->
             <nav>
-                <a href="index.html">Home</a> |
+                <a href="https://lucpaluskiewicz.github.io/">Home</a> |
                 <a href="https://lucpaluskiewicz.github.io/research" target="_blank">Research</a> |
                 <a href="https://lucpaluskiewicz.github.io/cv" target="_blank">CV</a>
             </nav>
